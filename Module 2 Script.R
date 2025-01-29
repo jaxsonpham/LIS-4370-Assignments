@@ -7,4 +7,3 @@ myMean <- function(assignment2) {
 
 # Call the function
 myMean(assignment2)
-
