@@ -19,3 +19,4 @@ M <- diag(3, 5)  # Create a 5x5 diagonal matrix with 3s on the diagonal
 M[ ,1] <- c(3,2,2,2,2)  # Modify the first column
 M[1, 2:5] <- 1
 print(M)
+
